@@ -6,7 +6,6 @@
 
 이 모든 일이 끝나면 하고싶은 공부만 하면서 살테야
 
-![](https://raw.githubusercontent.com/kpjhg0124/kpjhg0124/master/20200719_134949.jpg)
 
 <!--
 **kpjhg0124/kpjhg0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
