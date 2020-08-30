@@ -6,6 +6,14 @@
 
 이 모든 일이 끝나면 하고싶은 공부만 하면서 살테야
 
+<details>
+    <summary>¯\_(ツ)_/¯</summary>
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shapelayer&hide=css)
+
+</details>
 
 <!--
 **kpjhg0124/kpjhg0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
