@@ -13,6 +13,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shapelayer&hide=css)
 
+### Contacts
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/TzYg8GF)
+
 ### Uses
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
