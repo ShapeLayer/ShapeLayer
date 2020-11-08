@@ -1,15 +1,9 @@
-수능 끝나고 2주동안 우왁굳 연말공모전 팬게임 개발하실 팬치를 찾습니다.(기본 계획 잡혀있음)  
-아래의 ¯\_(ツ)_/¯ 속에 있는 연락처로 연락주세요.  
- 
-
-
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=shapelayer&layout=compact)
 
 ----
 
-이 모든 일이 끝나면 하고싶은 공부만 하면서 살테야
 
 <details>
     <summary>¯\_(ツ)_/¯</summary>
