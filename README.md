@@ -4,6 +4,7 @@
 
 ----
 
+Studying at Chonnam National University, Department of Computer Information and Communication Engineering.
 
 <details>
     <summary>¯\_(ツ)_/¯</summary>
