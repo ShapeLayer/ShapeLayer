@@ -27,6 +27,8 @@ Studying at Chonnam National University, Department of Computer Information and 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 
+[University Computer Engineering Lecture Tasks](https://github.com/ShapeLayer/ShapeLayer/blob/master/UniversityCELectureTasks.md)
+
 </details>
 
 <!--
