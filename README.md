@@ -15,6 +15,7 @@ Studying at Chonnam National University, Department of Computer Information and 
 
 ### Contacts
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/TzYg8GF)
+[![Email](https://img.shields.io/badge/Email%20%7C%20214823@jnu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:214823@jnu.ac.kr)
 
 ### Uses
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/)
@@ -26,8 +27,6 @@ Studying at Chonnam National University, Department of Computer Information and 
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
-
-[University Computer Engineering Lecture Tasks](https://github.com/ShapeLayer/ShapeLayer/blob/master/UniversityCELectureTasks.md)
 
 </details>
 
