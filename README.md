@@ -26,6 +26,7 @@ Studying at Chonnam National University, Department of Computer Information and 
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 
 </details>
