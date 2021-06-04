@@ -6,6 +6,8 @@
 
 Studying at Chonnam National University, Department of Computer Engineering.
 
+공학설계입문(아님) 수행중: [Ha-limLee/Sticky-Notes-Improved](https://github.com/Ha-limLee/Sticky-Notes-Improved)
+
 <details>
     <summary>¯\_(ツ)_/¯</summary>
 
