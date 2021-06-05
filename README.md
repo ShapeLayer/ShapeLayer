@@ -5,7 +5,6 @@
 ---
 
 Studying Computer Engineering at Chonnam National University.
- * 공학설계입문(아님) 수행중: [Ha-limLee/Sticky-Notes-Improved](https://github.com/Ha-limLee/Sticky-Notes-Improved)
 
 ---
 
