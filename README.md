@@ -20,9 +20,9 @@ Studying Computer Engineering at Chonnam National University.
 [![PIMM](https://img.shields.io/badge/active%20at-pimm-7289DA)](#)
 
 ### Contacts
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/TzYg8GF)
-[![Email](https://img.shields.io/badge/Email%20%7C%20214823@jnu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:214823@jnu.ac.kr)
-[![Instagram](https://img.shields.io/badge/Instagram-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/__jong.hyeon__)
+[![Discord](https://img.shields.io/badge/Discord-박종현%238176-7289DA?logo=discord&logoColor=white)](https://discord.gg/TzYg8GF)
+[![Email](https://img.shields.io/badge/Email-214823@jnu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:214823@jnu.ac.kr)
+[![Instagram](https://img.shields.io/badge/Instagram-@__jong.hyeon__-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/__jong.hyeon__)
 
 ### Uses
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/)
