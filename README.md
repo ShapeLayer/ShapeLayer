@@ -6,7 +6,7 @@
 
 [![Notion](https://img.shields.io/badge/meet%20at%20notion!-white?logo=notion&logoColor=black)](https://www.notion.so/shapelayer/Park-Jonghyeon-8905e4fa7ab74aa5894ccc2e54ca40c4)
 
-Studying Computer Engineering at Chonnam National University.
+Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chonnam National University.
 
 ---
 
