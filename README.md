@@ -15,7 +15,7 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapelayer&layout=compact&hide=css)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapelayer&layout=compact&hide=html,css,nsis,tsql)](#)
 
 [![PIMM](https://img.shields.io/badge/active%20at-pimm-7289DA)](#)
 
