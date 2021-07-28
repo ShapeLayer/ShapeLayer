@@ -30,7 +30,7 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 
 ### Studies
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
