@@ -11,6 +11,10 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 
 ---
 
+[![Snake Grid Animation](https://raw.githubusercontent.com/ShapeLayer/ShapeLayer/output/github-contribution-snk.svg)](#)
+
+---
+
 <details>
     <summary>¯\_(ツ)_/¯</summary>
 
