@@ -25,6 +25,7 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 [![PIMM](https://img.shields.io/badge/active%20at-pimm-7289DA)](#)
 
 ### Contacts
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-박종현-FFCD00?logo=kakaotalk&logoColor=white)](https://namecard.kakao.com/cmd)
 [![Discord](https://img.shields.io/badge/Discord-박종현%238176-7289DA?logo=discord&logoColor=white)](https://discord.gg/TzYg8GF)
 [![Email](https://img.shields.io/badge/Email-214823@jnu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:214823@jnu.ac.kr)
 [![Instagram](https://img.shields.io/badge/Instagram-@__jong.hyeon__-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/__jong.hyeon__)
@@ -32,16 +33,17 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 ### Uses
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](#)
 
 ### Studies
 [![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](#)
-[![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 
 ### Interests
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Rust](https://img.shields.io/badge/Rust-FFFFFF?logo=rust&logoColor=black)](https://kotlinlang.org/)
 
 </details>
 
