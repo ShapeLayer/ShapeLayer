@@ -11,10 +11,6 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 
 ---
 
-[![Snake Grid Animation](https://raw.githubusercontent.com/ShapeLayer/ShapeLayer/output/github-contribution-snk.svg)](#)
-
----
-
 <details>
     <summary>¯\_(ツ)_/¯</summary>
 
@@ -45,8 +41,11 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-FFFFFF?logo=rust&logoColor=black)](https://kotlinlang.org/)
 
-</details>
+---
 
+[![Snake Grid Animation](https://raw.githubusercontent.com/ShapeLayer/ShapeLayer/output/github-contribution-snk.svg)](#)
+
+</details>
 <!--
 **kpjhg0124/kpjhg0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
