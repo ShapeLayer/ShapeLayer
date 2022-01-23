@@ -1,11 +1,10 @@
 ### Hi there, I'm Park Jonghyeon. 👋
 [![Starts Github](https://img.shields.io/badge/since-2015-black?logo=github&logoColor=white)](#)
 [![Notion](https://img.shields.io/badge/meet%20at%20notion!-white?logo=notion&logoColor=black)](https://www.notion.so/shapelayer/Park-Jonghyeon-8905e4fa7ab74aa5894ccc2e54ca40c4)
+[![solved.ac](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124)](https://solved.ac/profile/belline0124)
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=shapelayer&layout=compact&show_icons=true" alt="Github Overview" height="170">](#)
-[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=belline0124" align="right" alt="Baekjoon Online Judge" height="170">](https://www.acmicpc.net/user/belline0124)
-
 
 Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chonnam National University.
 
