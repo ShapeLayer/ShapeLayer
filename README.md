@@ -1,6 +1,7 @@
 ### Hi there, I'm Park Jonghyeon. 👋
 [![Starts Github](https://img.shields.io/badge/since-2015-black?logo=github&logoColor=white)](#)
 [![Notion](https://img.shields.io/badge/meet%20at%20notion!-white?logo=notion&logoColor=black)](https://www.notion.so/shapelayer/Park-Jonghyeon-8905e4fa7ab74aa5894ccc2e54ca40c4)
+[![velog.io](https://img.shields.io/badge/velog-@shapelayer-20C997?logo=velog&logoColor=white)](https://velog.io/@shapelayer)
 [![solved.ac](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124)](https://solved.ac/profile/belline0124)
 
 
