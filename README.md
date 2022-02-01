@@ -5,22 +5,16 @@
 [![solved.ac](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124)](https://solved.ac/profile/belline0124)
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=shapelayer&layout=compact&show_icons=true" alt="Github Overview" height="170">](#)
 
 Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chonnam National University.
 
 ---
 
-<details>
-    <summary>¯\_(ツ)_/¯</summary>
-
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapelayer&layout=compact&hide=html,css,nsis,tsql)](#)
 
 ### Contacts
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-박종현-FFCD00?logo=kakaotalk&logoColor=white)](https://namecard.kakao.com/cmd)
-[![Discord](https://img.shields.io/badge/Discord-박종현%238176-7289DA?logo=discord&logoColor=white)](https://discord.gg/TzYg8GF)
+[![Discord](https://img.shields.io/badge/Discord-박종현%238176-7289DA?logo=discord&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-214823@jnu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:214823@jnu.ac.kr)
 [![Instagram](https://img.shields.io/badge/Instagram-@__jong.hyeon__-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/__jong.hyeon__)
 
@@ -39,8 +33,16 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 ### Interests
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
+---
 
+[![Unicode Consortium Bronze Sponser](https://www.unicode.org/consortium/aacimg/badges/bronze-1F30C.png)](http://unicode.org/consortium/adopted-characters.html#b1F30C)
+
+<details>
+    <summary>¯\_(ツ)_/¯</summary>
+
+[<img src="https://github-readme-stats.vercel.app/api?username=shapelayer&layout=compact&show_icons=true" alt="Github Overview" height="170">](#)
 </details>
+
 <!--
 **kpjhg0124/kpjhg0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
