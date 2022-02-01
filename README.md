@@ -32,11 +32,11 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 [![Rust](https://img.shields.io/badge/Rust-FFFFFF?logo=rust&logoColor=black)](https://kotlinlang.org/)
 
 ### Studies
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
 [![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](#)
 
 ### Interests
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 
