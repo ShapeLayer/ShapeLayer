@@ -38,6 +38,7 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 <details>
     <summary>¯\_(ツ)_/¯</summary>
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapelayer&layout=compact&hide=html,css,nsis,tsql)](#)
     
 [<img src="https://github-readme-stats.vercel.app/api?username=shapelayer&layout=compact&show_icons=true" alt="Github Overview" height="170">](#)
