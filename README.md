@@ -10,8 +10,6 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapelayer&layout=compact&hide=html,css,nsis,tsql)](#)
-
 ### Contacts
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-박종현-FFCD00?logo=kakaotalk&logoColor=white)](https://namecard.kakao.com/cmd)
 [![Discord](https://img.shields.io/badge/Discord-박종현%238176-7289DA?logo=discord&logoColor=white)](#)
@@ -39,7 +37,9 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 
 <details>
     <summary>¯\_(ツ)_/¯</summary>
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapelayer&layout=compact&hide=html,css,nsis,tsql)](#)
+    
 [<img src="https://github-readme-stats.vercel.app/api?username=shapelayer&layout=compact&show_icons=true" alt="Github Overview" height="170">](#)
 </details>
 
