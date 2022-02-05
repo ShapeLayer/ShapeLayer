@@ -21,15 +21,16 @@ Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chon
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](#)
-[![Rust](https://img.shields.io/badge/Rust-FFFFFF?logo=rust&logoColor=black)](https://kotlinlang.org/)
 
 ### Studies
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
-[![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-FFFFFF?logo=rust&logoColor=black)](https://kotlinlang.org/)
 
 ### Interests
+[![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://kotlinlang.org/)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](#)
 
 ---
 
