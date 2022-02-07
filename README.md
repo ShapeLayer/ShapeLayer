@@ -1,10 +1,26 @@
 ### Hi there, I'm Park Jonghyeon. 👋
-[![Starts Github](https://img.shields.io/badge/since-2015-black?logo=github&logoColor=white)](#)
-[![Notion](https://img.shields.io/badge/meet%20at%20notion!-white?logo=notion&logoColor=black)](https://www.notion.so/shapelayer/Park-Jonghyeon-8905e4fa7ab74aa5894ccc2e54ca40c4)
-[![velog.io](https://img.shields.io/badge/velog-@shapelayer-20C997?logo=velog&logoColor=white)](https://velog.io/@shapelayer)
-[![solved.ac](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124)](https://solved.ac/profile/belline0124)
-
-
+<p align="center">
+    <a href="#" aria-label="Github">
+        <img src="https://img.shields.io/badge/since-2015-black?logo=github&logoColor=white">
+    </a>
+    <a href="https://jonghyeon.me" aria-label="notion">
+        <img src="https://img.shields.io/badge/meet%20at%20notion!-white?logo=notion&logoColor=black">
+    </a>
+    <a href="https://velog.io/@shapelayer" aria-label="velog.io">
+        <img src="https://img.shields.io/badge/velog-@shapelayer-20C997?logo=velog&logoColor=white">
+    </a>
+    <a href="https://www.credly.com/users/jonghyeon/" aria-label="credly">
+        <img src="https://img.shields.io/badge/credly-jonghyeon-FF6B00?logo=credly&logoColor=white">
+    </a>
+</p>
+<p align="center">
+    <a href="https://solved.ac/profile/belline0124" aria-label="solved.ac">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124">
+    </a>
+    <a href="https://leetcode.com/shapelayer" aria-label="leetcode">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FShapeLayer&logo=leetcode&logoColor=yellow)">
+    </a>
+</p>
 
 Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chonnam National University.
 
