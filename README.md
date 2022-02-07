@@ -12,8 +12,7 @@
     <a href="https://www.credly.com/users/jonghyeon/" aria-label="credly">
         <img src="https://img.shields.io/badge/credly-jonghyeon-FF6B00?logo=credly&logoColor=white">
     </a>
-</p>
-<p align="center">
+    <br />
     <a href="https://solved.ac/profile/belline0124" aria-label="solved.ac">
         <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124">
     </a>
