@@ -21,7 +21,7 @@
     </a>
 </p>
 
-Studying Computer Engineering at Intelligent Video Media / Interface Lab in Chonnam National University as undergraduate research student.
+Studying computer engineering at Intelligent Video Media / Interface Lab in Chonnam National University as undergraduate research student.
 
 ---
 
