@@ -34,16 +34,16 @@ Studying computer engineering at Intelligent Video Media / Interface Lab in Chon
 ### Uses
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
+[![Rust](https://img.shields.io/badge/Rust-FFFFFF?logo=rust&logoColor=black)](https://rust-lang.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 
 ### Studies
-[![Rust](https://img.shields.io/badge/Rust-FFFFFF?logo=rust&logoColor=black)](https://rust-lang.org/)
+[![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)](https://ruby-lang.org/)
 
 ### Interests
-[![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://swift.org/)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://r-project.org/)
