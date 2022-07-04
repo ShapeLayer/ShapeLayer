@@ -17,7 +17,8 @@
     </a>
 </p>
 
-Studying computer engineering at Intelligent Video Media / Interface Lab in Chonnam National University as undergraduate research student.
+Serving in the military.  
+~~Studying computer engineering at Intelligent Video Media / Interface Lab in Chonnam National University as undergraduate research student.~~
 
 ---
 
