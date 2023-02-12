@@ -61,4 +61,5 @@ Makefile.......0.00%
 
 ```
 
-This is a statistic of the amount of simple code written by language without considering the grammatical characteristics of each language. Statistics do not guarantee language proficiency and cannot be used as a reference.
+This is a statistic based on the total amount of code in public repositories, without taking into account the grammatical characteristics of the language.  
+Statistics do not guarantee language proficiency and cannot be used as a reference.
