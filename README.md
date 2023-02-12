@@ -29,3 +29,36 @@ For more details, visit [my website.](https://jonghyeon.me)
 ## How to reach me?
 Send an email to the account above.  
 A reply will be sent in a week normally.
+
+## Language uses
+```txt
+C#.............63.46%
+Java...........11.75%
+Python.........10.79%
+CSS............3.46%
+JavaScript.....3.19%
+Rust...........1.52%
+HTML...........1.11%
+C..............0.99%
+Kotlin.........0.74%
+Ruby...........0.53%
+C++............0.45%
+TeX............0.44%
+TypeScript.....0.39%
+NSIS...........0.23%
+Svelte.........0.22%
+Stylus.........0.20%
+Nunjucks.......0.16%
+SCSS...........0.09%
+TSQL...........0.09%
+R..............0.08%
+Swift..........0.06%
+Shell..........0.02%
+Batchfile......0.02%
+ShaderLab......0.02%
+Dockerfile.....0.01%
+Makefile.......0.00%
+
+```
+
+This is a statistic of the amount of simple code written by language without considering the grammatical characteristics of each language. Statistics do not guarantee language proficiency and cannot be used as a reference.
