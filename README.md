@@ -63,5 +63,5 @@ Pike...........0.00%
 
 ```
 
-This is a statistic based on the total amount of code in public repositories, without taking into account the grammatical characteristics of the language.  
+This is a statistic based on the total amount of code in public repositories, without considering the grammatical characteristics of the language.  
 Statistics do not guarantee language proficiency and cannot be used as a reference.
