@@ -32,7 +32,7 @@ A reply will be sent in a week normally.
 
 ## Language uses
 ```txt
-C#.............63.51%
+C#.............63.50%
 Java...........11.75%
 Python.........10.79%
 CSS............3.46%
