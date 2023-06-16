@@ -31,7 +31,7 @@ A reply will be sent in a week normally.
 
 ## Language uses
 ```txt
-Python................30.87% (1042072)
+Python................30.88% (1042338)
 Java..................29.56% (997857)
 CSS...................8.44% (285029)
 JavaScript............7.83% (264200)
