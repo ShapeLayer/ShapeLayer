@@ -21,7 +21,7 @@ For more details, visit [my website.](https://jonghyeon.me)
 
 ### Contacts
  [![Discord](https://img.shields.io/badge/Discord-shapelayer-7289DA?logo=discord&logoColor=white)](#)
- [![Email](https://img.shields.io/badge/Email-me@jonghyeon.me-EA4335?logo=gmail&logoColor=white)](mailto:me@jonghyeon.me)
+ [![Email](https://img.shields.io/badge/Email-shapelayer.dev@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:shapelayer.dev@gmail.com)
  [![Instagram](https://img.shields.io/badge/Instagram-@__jong.hyeon__-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/__jong.hyeon__)
 
 ### Institution Contacts
